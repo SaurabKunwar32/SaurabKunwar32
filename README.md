@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saurab Kunwar</h1>
-<h3 align="center">I’m currently studying Computer Science !!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabkunwar32&label=Profile%20views&color=0e75b6&style=flat" alt="saurabkunwar32" /> </p>
 
